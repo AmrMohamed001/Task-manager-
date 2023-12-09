@@ -17,7 +17,7 @@ The API and the app itself are hosted on the same server.
 ## Overview
 
 This web application allows it's users to add their task list.
-as you can mark it as completed , delete it or change the name of the task
+You can create task, mark it as completed , change it's name or finally delete it
 
 ## Purpose
 
